@@ -1,0 +1,128 @@
+.container{
+  background-color: rgb(5, 5, 91);
+  height: 50px;
+  width: 100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+}
+.text{
+  color: white;
+}
+.text h1{
+  font-size: 20px;
+}
+.inp {
+
+}
+.inp input{
+  width: 450px;
+  padding: 6px;
+  border: none;
+}
+.text1{
+  text-align: center;
+  cursor: pointer;
+}
+.text1 h1{
+  margin-top: -20px;
+  font-size: 17px;
+  color: white;
+}
+.text1 p{
+  color:white;
+  font-size: 13px;
+}
+.btn{
+
+}
+.btn button{
+  background-color: yellow;
+  border: none;
+  cursor: pointer;
+  font-size: 11px;
+  padding: 10px;
+  width: 80px;
+  border-radius: 5px;
+}
+.image{
+
+}
+.image img{
+  height: 90vh;
+  width: 100%;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.image1{
+  border: 1px solid;
+  width: 220px;
+  height: 330px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.image1 img{
+  height: 130px;
+}
+.image1 h1{
+  font-size: 25px;
+}
+.image1 p{
+  font-size: 20px;
+  color: red;
+  text-decoration: underline;
+}
+.image1 button{
+  background-color: yellow;
+  border: none;
+  padding: 7px;
+  width: 120px;
+  cursor: pointer;
+}
+.txt{
+  background-color: rgb(5, 5, 91);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.txt h1{
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+.form{
+  background-color: white;
+  width: 400px;
+  height:80vh;
+}
+.form h1{
+  color: black;
+  font-size: 25px;
+}
+.form input{
+  padding: 10px;
+  width: 270px;
+  border-radius: 10px;
+}
+.ip{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+.ip h2{
+  color:rgb(90, 89, 89) ;
+  font-size: 12px;
+  font-weight: 100;
+  font-family: sans-serif;
+}
